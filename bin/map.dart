@@ -3,20 +3,21 @@
 //   Map<String,dynamic> map1={"name":"ASWIN","age":"25"};
 //   print(map1);
 // }
-// void main(){
-//   Map map=Map();
-//   map["name"]='Aswin';
-//   map['AGE']=22;
-//   map['mark']=10;
-//   // print(map);
+// void main() {
+//   Map map = Map();
+//   map["name"] = 'Aswin';
+//   map['AGE'] = 22;
+//   map['mark'] = 10;
+//   print(map);
 //   // print(map["name"]);
 //   // print(map["AGE"]);
 //   // print(map["mark"]);
-//   map.forEach((key, value) {
-//     // print("$key");
-//     // print("$value");
-//     print("$key:$value");
-//   });
+//   // map.forEach((key, value) {
+//   //   print("$key");
+//   //   print("$value");
+//   //   print("$key:$value");
+//   // });
+// }
 void main(){
 Map map1={};
 Map map3={};
